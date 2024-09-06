@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\WSReference\scratch\.metadata\.plugins\org.eclipse.jdt.core
+1786952937.index
+2269666353.index
+3716777220.index
+3413270776.index
+578789385.index
+3370484262.index
+1865797976.index
+859694225.index
+762941815.index
+4160366713.index
+2185407481.index
+1375687699.index

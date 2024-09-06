@@ -1,0 +1,43 @@
+2024-09-04 12:32:11,027 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-04 12:33:03,542 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework:cyberspeed-ora:0.0.1 @ C:\WSReference\scratch-Sifeddine\scratch\pom.xml.
+2024-09-04 12:33:04,228 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-04 12:33:04,236 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-09-04 12:33:04,247 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-04 12:33:04,250 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WSReference\scratch-Sifeddine\scratch\src\test\resources
+2024-09-04 12:33:09,681 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.scratch:scratch-game:0.0.1-SNAPSHOT @ C:\WSReference\scratch-game\pom.xml.
+2024-09-04 12:33:10,324 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WSReference\scratch-game\src\main\resources
+2024-09-04 12:33:10,329 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WSReference\scratch-game\src\test\resources
+2024-09-04 12:34:27,866 [Worker-11: Launching Executing clean in C__WSReference_scratch-Sifeddine_scratch] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WSReference\scratch-Sifeddine\scratch
+2024-09-04 12:34:27,868 [Worker-11: Launching Executing clean in C__WSReference_scratch-Sifeddine_scratch] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-09-04 12:34:43,932 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-09-04 12:34:50,496 [Worker-3: Launching scratch] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WSReference\scratch-Sifeddine\scratch
+2024-09-04 12:34:50,497 [Worker-3: Launching scratch] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2024-09-04 12:35:11,451 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-09-04 12:35:12,226 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework:cyberspeed-ora:0.0.1 @ C:\WSReference\scratch-Sifeddine\scratch\pom.xml.
+2024-09-04 12:35:12,444 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /scratch/src/main/java
+2024-09-04 12:35:12,445 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /scratch/src/main/resources
+2024-09-04 12:35:12,446 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /scratch/src/test/java
+2024-09-04 12:35:12,613 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-09-04 12:35:13,162 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-04 12:35:13,163 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-09-04 12:35:13,181 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-04 12:35:13,182 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WSReference\scratch-Sifeddine\scratch\src\test\resources
+2024-09-04 12:35:55,785 [Worker-0: Launching scratch] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WSReference\scratch-Sifeddine\scratch
+2024-09-04 12:35:55,786 [Worker-0: Launching scratch] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2024-09-04 12:36:14,054 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-09-04 12:36:14,751 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework:cyberspeed-ora:0.0.1 @ C:\WSReference\scratch-Sifeddine\scratch\pom.xml.
+2024-09-04 12:36:15,050 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /scratch/src/main/java
+2024-09-04 12:36:15,051 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /scratch/src/main/resources
+2024-09-04 12:36:15,052 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /scratch/src/test/java
+2024-09-04 12:36:15,200 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-09-04 12:36:15,378 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-04 12:36:15,379 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-09-04 12:36:15,393 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-04 12:36:15,393 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WSReference\scratch-Sifeddine\scratch\src\test\resources
+2024-09-04 12:36:40,615 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-09-04 12:36:48,615 [Worker-10: Launching scratch] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WSReference\scratch-Sifeddine\scratch
+2024-09-04 12:36:48,616 [Worker-10: Launching scratch] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2024-09-04 12:37:27,470 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-04 12:37:27,476 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-09-04 12:37:27,484 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-04 12:37:27,484 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WSReference\scratch-Sifeddine\scratch\src\test\resources
